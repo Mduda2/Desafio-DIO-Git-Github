@@ -1,0 +1,5 @@
+Cursos sobre git e git hub (gratuitos)
+Curso em vídeo com Gustavo Guanabara: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
+Comandos Git:
+https://www.hostinger.com/br/tutoriais/comandos-git?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:BR-t3&utm_medium=ppc&gad_source=1&gad_campaignid=19588998604&gbraid=0AAAAADMy-hZPbV2bFmS7msp-OWP_aDWYT&gclid=Cj0KCQjwhafEBhCcARIsAEGZEKJn04F8MUZ1i0MjXymQw0nRdHBsXx8M9GIQM8JALZweSDaq07KGlosaAneqEALw_wcB
